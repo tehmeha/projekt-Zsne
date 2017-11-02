@@ -1,5 +1,5 @@
-# naziv projekta
+Kalkulator
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Hrvoje Stupar i Lovro Tomaškovic
 - programming language: C++
-- description: Opis
+- description: korisnik može vršiti osnovne racunske operacije
